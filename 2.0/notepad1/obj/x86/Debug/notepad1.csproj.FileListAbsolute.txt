@@ -1,0 +1,14 @@
+E:\学习\vc6.0\VC6解压密码411005\VC6\MyProjects\notepad1\notepad1\bin\Debug\notepad1.exe
+E:\学习\vc6.0\VC6解压密码411005\VC6\MyProjects\notepad1\notepad1\bin\Debug\notepad1.pdb
+E:\学习\vc6.0\VC6解压密码411005\VC6\MyProjects\notepad1\notepad1\obj\x86\Debug\notepad1.exe
+E:\学习\vc6.0\VC6解压密码411005\VC6\MyProjects\notepad1\notepad1\obj\x86\Debug\notepad1.pdb
+D:\wenjian\Desktop\notepad1\notepad1\obj\x86\Debug\notepad1.exe
+D:\wenjian\Desktop\notepad1\notepad1\obj\x86\Debug\notepad1.pdb
+D:\wenjian\Desktop\notepad1\notepad1\bin\Debug\notepad1.exe
+D:\wenjian\Desktop\notepad1\notepad1\bin\Debug\notepad1.pdb
+D:\wenjian\Desktop\notepad1\notepad1\obj\x86\Debug\notepad1.csprojResolveAssemblyReference.cache
+C:\Users\jia\Desktop\C#记事本\notepad1\notepad1\obj\x86\Debug\notepad1.exe
+C:\Users\jia\Desktop\C#记事本\notepad1\notepad1\obj\x86\Debug\notepad1.pdb
+C:\Users\jia\Desktop\C#记事本\notepad1\notepad1\bin\Debug\notepad1.exe
+C:\Users\jia\Desktop\C#记事本\notepad1\notepad1\bin\Debug\notepad1.pdb
+C:\Users\jia\Desktop\C#记事本\notepad1\notepad1\obj\x86\Debug\notepad1.csprojResolveAssemblyReference.cache
